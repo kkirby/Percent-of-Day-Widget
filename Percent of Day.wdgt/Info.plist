@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Percent of Day</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kylekirby.widget.PercentOfDay</string>
+	<key>CFBundleName</key>
+	<string>Percent of Day</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0</string>
+	<key>CFBundleVersion</key>
+	<string>3.0</string>
+	<key>CloseBoxInsetX</key>
+	<integer>5</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>7</integer>
+	<key>Height</key>
+	<integer>114</integer>
+	<key>MainHTML</key>
+	<string>POD2.5.html</string>
+	<key>Width</key>
+	<integer>426</integer>
+</dict>
+</plist>
